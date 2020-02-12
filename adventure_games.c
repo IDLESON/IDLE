@@ -1,5 +1,6 @@
-\\搭建框架
-\\导入mycon库函数
+//搭建框架
+//导入mycon库函数
+ 
 #include <windows.h>
 #include <stdio.h>
 #include <stdlib.h>
